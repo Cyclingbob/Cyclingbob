@@ -36,11 +36,13 @@ a:link{
     text-decoration: none;
     color:#00FBFF;
     background-color:#FF0FFF;
+    height:60px;
+    width:10%;
 }
 a:visited {
     text-decoration: none;
     color:#00fbff;;
-    background-color:#8300FF;
+    background-color:#FF0FFF;
   }
 a:hover {
     color:#00C5FF;
