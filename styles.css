@@ -32,9 +32,21 @@ footer {
     position:fixed;
     bottom: 0;
 }
-a {
+a:link{
     text-decoration: none;
+    color:#00FBFF;
+    background-color:#FF0FFF;
 }
 a:visited {
     text-decoration: none;
+    color:#00fbff;;
+    background-color:#8300FF;
   }
+a:hover {
+    color:#00C5FF;
+    background-color:#9F279F;
+}
+a:active {
+    color:#00C5FF;
+    background-color:#9F279F;
+}
