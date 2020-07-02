@@ -34,21 +34,27 @@ footer {
 }
 a:link{
     text-decoration: none;
-    color:#00FBFF;
-    background-color:#FF0FFF;
+    color:#FFFFFF;
+    background-color:#00FBFF;
     height:60px;
     width:10%;
 }
 a:visited {
     text-decoration: none;
-    color:#00fbff;;
-    background-color:#FF0FFF;
+    color:#FFFFFF;;
+    background-color:#00FBFF;
+    height:60px;
+    width:10%;
   }
 a:hover {
-    color:#00C5FF;
-    background-color:#9F279F;
+    color:#FFFFFF;
+    background-color:#00FBFF;
+    height:60px;
+    width:10%;
 }
 a:active {
-    color:#00C5FF;
-    background-color:#9F279F;
+    color:#FFFFFF;
+    background-color:#00FBFF;
+    height:60px;
+    width:10%;
 }
