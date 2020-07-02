@@ -58,7 +58,7 @@ a:active {
     height:60px;
     width:10%;
 }
-button {
+button1 {
     border: none;
     background-color: #00C5FF;
     color: white;
@@ -71,9 +71,16 @@ button {
     height:40px;
     cursor: pointer;
 }
-button:hover {
+button1:hover {
     background-color: #009BC9;
     color: white;
     margin:0px 20px;
-    height:40px;
+    height:40px;border: none;
+    color: white;
+    padding:0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
 }
