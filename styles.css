@@ -9,6 +9,10 @@ header {
     font: medium;
     font-size: medium;
 }
+nav {
+    color: #000000;
+    background-color: #00C5FF;
+}
 body {
     position:relative;
     background-color:#ffffff;
