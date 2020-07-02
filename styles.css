@@ -67,7 +67,13 @@ button {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin:0px;
+    margin:0px 5px;
     height:40px;
     cursor: pointer;
-  }
+}
+button:hover {
+    background-color: #009BC9;
+    color: white;
+    margin:0px 5px;
+    height:40px;
+}
