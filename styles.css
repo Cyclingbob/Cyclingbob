@@ -12,6 +12,7 @@ header {
 nav {
     color: #000000;
     background-color: #00C5FF;
+    text-decoration: none;
 }
 body {
     position:relative;
