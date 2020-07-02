@@ -58,19 +58,16 @@ a:active {
     height:60px;
     width:10%;
 }
-.button1 {
+.button {
+    background-color: #4CAF50; /* Green */
     border: none;
-    background-color: #00C5FF;
     color: white;
-    padding:0px;
+    padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin:0px 5px;
-    height:40px;
-    cursor: pointer;
-}
+  }
 .button1:hover {
     background-color: #009BC9;
     color: white;
