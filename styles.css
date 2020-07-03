@@ -46,4 +46,15 @@ h1 {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-  }
+}
+button1 {
+    display: block;
+    padding: 13px 15px 4px 15px;
+    height: 33px;
+    text-decoration: none;
+    white-space: nowrap;
+    color: white;
+    font-size: .85rem;
+    font-weight: bold; 
+}
+    
