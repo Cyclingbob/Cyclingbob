@@ -58,3 +58,7 @@ a:active {
     height:60px;
     width:10%;
 }
+h1 {
+    columns: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
