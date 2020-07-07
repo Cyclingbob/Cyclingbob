@@ -27,6 +27,10 @@
     height: 100%;
     display: table-cell;
     vertical-align: middle;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
     font-size: 32px;
+    font-weight: 200;
+}
+.logo_container h1 span{
+    font-weight: 800;
 }
