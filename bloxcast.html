@@ -21,5 +21,16 @@
             </div>
         </div>
     <h1>jeff was ere. Or was he? Or did u find out that this website is run by chickens driving UFOs?</h1>
+    <div id="counter">5</div>
+    <script>
+        setInterval(function() {
+            var div = document.querySelector("#counter");
+            var count = div.textContent * 1 - 1;
+            div.textContent = count;
+            if (count <= 0) {
+                window.location.replace("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+            }
+        }, 1000);
+    </script>
     </body>
 </html>
