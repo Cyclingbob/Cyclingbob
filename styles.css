@@ -24,15 +24,6 @@
     height: 40px;
     width: 40px;
 }
-.logo-container h1{
-    color: white;
-    height: 100%;
-    display: table-cell;
-    vertical-align: middle;
-    font-family: 'Titillium Web', sans-serif;
-    font-size: 32px;
-    font-weight: 200;
-}
 .logo_container h1 span{
     font-weight: 800;
 }
