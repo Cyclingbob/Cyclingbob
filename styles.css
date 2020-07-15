@@ -28,11 +28,12 @@
     border-radius: 4px;
     height: 55px;
     width: 55px;
+    vertical-align: middle;
 }
 .navigation a{
     height: 100%;
     display: table;
-    float: none;
+    float: right;
     padding: 0px 20px;
     right: 200px;
 }
