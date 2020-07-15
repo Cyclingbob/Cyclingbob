@@ -33,6 +33,7 @@
     float: right;
     padding: 0px 20px;
     right: 200px;
+    vertical-align: middle;
 }
 .navigation a li{
     display: table-cell;
