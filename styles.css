@@ -24,16 +24,13 @@
     
 }
 .logo_container img{
-    border: none;
-    border-radius: 4px;
     height: 50px;
     width: 55px;
-    vertical-align: middle;
 }
 .navigation a{
     height: 100%;
     display: table;
-    float: middle;
+    float: right;
     padding: 0px 20px;
     right: 200px;
 }
