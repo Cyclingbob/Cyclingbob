@@ -21,11 +21,13 @@
     height: 100%;
     display: table;
     float: left;
+    
+}
+.logo_container img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
     height: 40px;
     width: 40px;
-}
-.logo_container h1 span{
-    font-weight: 800;
 }
 .navigation a{
     height: 100%;
