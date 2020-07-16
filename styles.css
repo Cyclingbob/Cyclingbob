@@ -14,10 +14,12 @@ ul {
 }
 li {
     float: left;
+    color: white;
 }
   
 li a {
     display: block;
+    background-color: #00ccff;
     color: white;
     text-align: center;
     padding: 14px 16px;
@@ -25,13 +27,15 @@ li a {
     padding: 4px;
     font-family: 'Mulish', sans-serif;
     font-size: 20px;
+    height: 100%;
 }
 .active {
     background-color: #0084ff;
 }
-nav ul li a img{
+nav ul li img{
+    height: 100%;
     text-align: middle;
     top: 0px;
     left: 0px;
-    padding: 10px;
+    padding: 5px;
 }
