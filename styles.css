@@ -15,8 +15,11 @@ nav ul {
     width: 60%;
     height: 100%;
 }
-nav li {
-    display: inline;
+nav ul li about {
+    width: 40px;
+}
+nav ul li cs {
+    width: 100px
 }
 nav ul li a {
     line-height: 2.6em;
@@ -28,6 +31,9 @@ nav ul li a {
     vertical-align: middle;
     font-family: 'Mulish', sans-serif;
     height: 100%;
-    width: 40px;
+    background-color: #00ccff;
     color: #FFFFFF;
+}
+nav ul li a img{
+    vertical-align: middle;
 }
