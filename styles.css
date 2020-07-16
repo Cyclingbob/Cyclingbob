@@ -19,7 +19,8 @@ nav ul li about {
     width: 40px;
 }
 nav ul li cs {
-    width: 100px
+    width: 100px;
+    display: initial;
 }
 nav ul li a {
     line-height: 2.6em;
