@@ -14,7 +14,11 @@ ul {
 }
 li {
     float: left;
+    background-color: #00ccff;
     color: white;
+    width: 1000px;
+    float: middle;
+    height: 100%;
 }
   
 li a {
@@ -29,12 +33,11 @@ li a {
     font-size: 20px;
     height: 100%;
 }
-.active {
+li .active {
     background-color: #0084ff;
 }
 nav ul li img{
     height: 100%;
-    text-align: middle;
     top: 0px;
     left: 0px;
     padding: 5px;
