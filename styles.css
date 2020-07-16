@@ -1,26 +1,21 @@
 /* styles.css */
-header {
-    background: url(../img/header-bg.jpg) left top no-repeat;
-    background-size: 100% 100%;
-    min-height: 400px;
-    position: relative;
-    }
-
-/* navigation */
 nav {
+    height: 50px;
     text-align:center;
     width: 100%;
     overflow: hidden;
-    border-bottom: 2px solid #72aa21;
     position: absolute;
     bottom: 0;
-    }
+    background-color: #00ccff;
+}
 nav ul {
     display:inline-block;
-    }
+    width: 60%;
+    height: 100%;
+}
 nav li {
     display: inline;
-    }
+}
 nav ul li a {
     line-height: 2.6em;
     padding: 0 1.5em;
@@ -28,4 +23,5 @@ nav ul li a {
     position: relative;
     margin: 0 .5em;
     padding-left: 1.6em;
-    }
+    vertical-align: middle;
+}
