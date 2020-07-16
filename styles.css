@@ -7,6 +7,8 @@ nav {
     position: absolute;
     bottom: 0;
     background-color: #00ccff;
+    top: 0;
+    left: 0;
 }
 nav ul {
     display:inline-block;
@@ -24,4 +26,7 @@ nav ul li a {
     margin: 0 .5em;
     padding-left: 1.6em;
     vertical-align: middle;
+    font-family: 'Mulish', sans-serif;
+    height: 100%;
+    width: 40px;
 }
