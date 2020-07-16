@@ -8,10 +8,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #00ccff;
-    position:fixed;
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    top: 0;
+    position: fixed;
 }
 li {
     float: left;
