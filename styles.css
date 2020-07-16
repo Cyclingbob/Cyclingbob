@@ -1,39 +1,30 @@
 /* styles.css */
-nav {
-    height: 50px;
-    text-align:center;
-    width: 100%;
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
     overflow: hidden;
-    position: absolute;
-    bottom: 0;
-    background-color: #00ccff;
+    background-color: #333;
+    position:fixed;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
     top: 0;
-    left: 0;
 }
-nav ul {
-    display:inline-block;
-    width: 60%;
-    height: 100%;
-    font-family: 'Mulish', sans-serif;
-    height: 100%;
-    background-color: #00ccff;
-    color: #FFFFFF;
+  
+li {
+    float: left;
 }
-nav ul li about {
-    width: 40px;
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
-nav ul li cs {
-    width: 100px;
-    display: inline-block;
-}
-nav ul li a {
-    line-height: 2.6em;
-    padding: 0 1.5em;
-    display: inline-block;
-    position: relative;
-    margin: 0 .5em;
-    padding-left: 1.6em;
-    vertical-align: middle;
+.active {
+    background-color: #0084ff;
 }
 nav ul li a img{
     vertical-align: middle;
