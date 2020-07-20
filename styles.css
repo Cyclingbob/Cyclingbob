@@ -19,6 +19,7 @@ li {
     width: 1000px;
     float: middle;
     height: 100%;
+    display: block;
 }
   
 li a {
