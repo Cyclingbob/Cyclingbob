@@ -119,3 +119,8 @@ dt {
   font-weight: 800;
   font-size: 20px;
 }
+dd {
+  text-decoration: none;
+  color: #ffffff;
+  margin: 5px;
+}
