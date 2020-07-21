@@ -73,13 +73,19 @@ nav a:hover::before {
   width: 100%;
 }
 footer {
+  height: 100px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
   display: block;
   background-color: #f2f2f2;
   padding: 10px 0;
   color: #ffffff;
   font-size: .85rem;
   font-family: 'Work Sans', sans-serif;
-  background-color: #00ccff
+  background-color: #00ccff;
+  text-decoration: none;
 }
 .inner {
   margin: 0 auto;
