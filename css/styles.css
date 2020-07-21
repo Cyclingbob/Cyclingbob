@@ -73,7 +73,7 @@ nav a:hover::before {
   width: 100%;
 }
 footer {
-  height: 100px;
+  height: 150px;
   position: fixed;
   left: 0;
   bottom: 0;
@@ -123,4 +123,9 @@ dd {
   text-decoration: none;
   color: #ffffff;
   margin: 5px;
+}
+.lists dl dd a {
+  text-decoration: none;
+  font-weight: normal;
+  color: #ffffff;
 }
