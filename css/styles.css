@@ -112,3 +112,10 @@ dl {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
 }
+dt {
+  text-decoration: none;
+}
+.lists dl dt span {
+  font-weight: 800;
+  font-size: 20px;
+}
