@@ -72,3 +72,37 @@ nav a::before {
 nav a:hover::before {
   width: 100%;
 }
+footer {
+  display: block;
+  background-color: #f2f2f2;
+  padding: 10px 0;
+  color: #ffffff;
+  font-size: .85rem;
+  font-family: 'Work Sans', sans-serif;
+  background-color: #00ccff
+}
+.inner {
+  margin: 0 auto;
+  width: 768px;
+}
+.lists {
+  display: flex;
+  text-align: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+#footer .lists dl {
+  display: inline-block;
+  vertical-align: top;
+  text-align: left;
+  font-size: .8rem;
+}
+dl {
+  line-height: 1.5rem;
+  font-weight: normal;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
