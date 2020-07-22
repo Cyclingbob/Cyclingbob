@@ -150,6 +150,7 @@ p {
   position: relative;
   text-align: center;
   color: white;
+  top: 100px;
 }
 .centered {
   position: absolute;
