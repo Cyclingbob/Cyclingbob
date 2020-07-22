@@ -14,7 +14,6 @@ body {
 
 header {
   background: #00ccff;
-  position: fixed;
 }
 
 header::after {
@@ -42,7 +41,6 @@ nav li {
   display: inline-block;
   margin-left: 70px;
   padding-top: 23px;
-
   position: relative;
 }
 
