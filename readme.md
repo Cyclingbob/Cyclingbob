@@ -35,3 +35,4 @@
 
 ## Contact
 Email [admin@pizone.dev](mailto:admin@pizone.dev)
+Discord rexy_10
