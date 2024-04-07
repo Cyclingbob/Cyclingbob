@@ -20,7 +20,7 @@
 ## Skills
 - JavaScript
 - Python
-- C
+- C (poor, learning)
 - Raspberry Pi, Micro:bit, ESP32, Pico 💻
 - Designing and making electric circuits and custom hardware, including soldering ⚡
 - Riding motorbikes and scooters (125cc) 🛵
