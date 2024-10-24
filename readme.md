@@ -4,7 +4,7 @@
     - [grid.pizone.dev](https://grid.pizone.dev)
     - [Buses](https://github.com/Cyclingbob/buses)
     - [Urlcut](https://urlcut.app)
-    - [Quadron](https://github.com/QuadronHost)
+    - [Car OBD](https://github.com/Cyclingbob/car_obd)
 - Interests:
     - Trains (Especially Eurotunnel) 🚄
     - Buses (UK and continent) 🚌
@@ -12,7 +12,7 @@
     - Nautical (I can sail!) ⛵
     - Aviation ✈️
     - Learning French, BSL
-- 17
+- 18
 - Essex, United Kingdom
 - Mayenne, Pays de la Loire, France
 - I code for fun
@@ -21,7 +21,7 @@
 - JavaScript
 - Python
 - C (poor, learning)
-- Raspberry Pi, Micro:bit, ESP32, Pico 💻
+- Raspberry Pi, Micro:bit, Pico 💻
 - Designing and making electric circuits and custom hardware, including soldering ⚡
 - Riding motorbikes and scooters (125cc) 🛵
 - General web development, but mostly back end logic including databases (SQL, MongoDB) 📫
